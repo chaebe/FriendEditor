@@ -1,4 +1,4 @@
-##This is another modification of the file
+##This is another modification
 
 # FriendEditor
 This is my modification to the Readme file
