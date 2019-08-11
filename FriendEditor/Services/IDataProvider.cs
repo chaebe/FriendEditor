@@ -5,6 +5,7 @@ namespace FriendEditor.Services
 {
     public interface IDataProvider
     {
+        //A comment
         bool Delete(IFriend friend);
 
         List<IFriend> GetAllFriends();
