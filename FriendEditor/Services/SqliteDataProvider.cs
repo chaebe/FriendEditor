@@ -7,9 +7,6 @@ using System.IO;
 
 namespace FriendEditor.Services
 {
-    /// <summary>
-    /// A comment
-    /// </summary>
     public class SqliteDataProvider : IDataProvider
     {
         #region Constants
