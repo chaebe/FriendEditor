@@ -1,6 +1,5 @@
 #This is another modification
 
-#Yet a change
 
 # FriendEditor
 This is my modification
