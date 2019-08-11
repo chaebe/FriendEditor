@@ -84,6 +84,7 @@ namespace FriendEditor.ViewModels
 
         private void DeleteFriend(Friend friend)
         {
+            //This is a random comment
             if (DialogService.Confirm("Really want to delete this friend?"))
             {
                 AllFriends.Remove(friend);
