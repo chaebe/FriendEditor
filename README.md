@@ -1,7 +1,7 @@
 ##This is another modification
 
 # FriendEditor
-This is my modification to the Readme file
+This is my modification
 
 A WPF sample app to demonstrate how to use MVVM design pattern and [MVVMLight](http://www.mvvmlight.net) toolkit.
 
